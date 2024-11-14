@@ -11,7 +11,7 @@ The primary goals of Blinkit's data analysis are:
 
 -Customer Feedback Analysis: Gaining insights from customer feedback to understand what customers look for in a grocery store.
 
-## The 'Grocery Sales' Table
+## The Grocery Sales Table
 To achieve these goals, Blinkit uses the 'Grocery Sales' table, which contains the following 12 columns:
 
 Item_Identifier: Unique identifier for each item.
